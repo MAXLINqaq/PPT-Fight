@@ -1,0 +1,4 @@
+repository "PPTF@wechat_os_qy00cwd-wp4-fssugwofqjorq@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
